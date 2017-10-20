@@ -1,2 +1,2 @@
 FROM almir/webhook
-RUN apk --update --upgrade add docker
+RUN apk --update --upgrade add docker git
